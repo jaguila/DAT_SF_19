@@ -1,0 +1,11 @@
+
+./airlines.csv
+./drinks.csv
+./hitters.csv
+./imdb_1000.csv
+./titanic.csv
+./ufo.csv
+./vehicles_test.csv
+./vehicles_train.csv
+./yelp.csv
+./chipotle.tsv
